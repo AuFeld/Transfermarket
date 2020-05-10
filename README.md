@@ -1,6 +1,6 @@
 # Transfermarket
 
-An analysis of how well Football Clubs in the EPL acquire players and return points in the immediate season. Identifies club investment strategies in player acquisition to achieve success in EPL.
+An analysis of how well football clubs in the English Premier League procure players and return points in the immediate season. Identifies club investment strategies for player acquisitions to achieve success in EPL.
 
 Medium Articles: 
 
