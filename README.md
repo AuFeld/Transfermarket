@@ -1,8 +1,10 @@
-# Transfermarket
+# Analyzed how well football clubs in the English Premier League procured players and returned points in the immediate season. Identified club investment strategies for player acquisitions to achieve success in EPL.
+<br>
 
-An analysis of how well football clubs in the English Premier League procure players and return points in the immediate season. Identified club investment strategies for player acquisitions to achieve success in EPL.
+# Tech Stack: Scikit-learn | Matplotlib | Eli5
+<br>
 
-Medium Articles: 
+# Medium Articles: 
 
 1. https://medium.com/@goldfeld.chase/premier-league-expenditures-an-analysis-of-club-spending-on-the-transfer-market-524c07bde0d6?source=friends_link&sk=2e2ab5d54d9f38ba4f7b10df08dedc14
 
